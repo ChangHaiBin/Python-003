@@ -1,7 +1,6 @@
 
 print("What do you like to order?")
 input1 = input()
-order = float(input1)
 
 
 
